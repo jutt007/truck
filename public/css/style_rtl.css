@@ -18,7 +18,7 @@ transform: rotate(-40deg) translate(0, -50%);}
 .sidebar-nav ul li ul li a{padding: 7px 60px 7px 25px;}
 .sidebar-nav ul li ul li a::before{left: auto;right: 30px;}
 .sidebar-nav ul li ul li a::after {left: auto;right: 33px;margin: 0;}
-.sidebar-nav > ul > li.active > a,.sidebar-nav > ul > li > a:hover{border-right:3px solid #86E837 !important;}
+.sidebar-nav > ul > li.active > a,.sidebar-nav > ul > li > a:hover{border-right:3px solid #E02D33 !important;}
 /*.sidebar-nav > ul > li.active > a{border-right:3px solid #FF683A !important;}*/
 .sidebar-nav > ul > li.nav-subtitle .nav-subtitle-span{margin-right: 0px;margin-left: -10px;}
 .page-wrapper{padding-left: 0; padding-right: 240px;}

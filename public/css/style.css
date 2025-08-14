@@ -4608,7 +4608,7 @@ html {
 
   margin-left: -18px;}
 
-.mini-sidebar .topbar .top-navbar .navbar-nav > .nav-item > .nav-link.sidebartoggler{transform: rotate(180deg);} 
+.mini-sidebar .topbar .top-navbar .navbar-nav > .nav-item > .nav-link.sidebartoggler{transform: rotate(180deg);}
 
 .topbar .dropdown-menu {
 
@@ -14174,7 +14174,7 @@ sidebar navigation
 
     font-size: 13px;
 
-    /*color: #86E837;*/
+    /*color: #E02D33;*/
 
 }
 
@@ -14300,7 +14300,7 @@ sidebar navigation
 
 .mini-sidebar .sidebar-nav #sidebarnav > li:hover a i {
 
-    color: #86E837;
+    color: #E02D33;
 
 }
 
@@ -14542,9 +14542,9 @@ When click on sidebar toggler and also for tablet
 
     }
 
-    
 
-    .mini-sidebar .sidebar-nav ul li a{color: #86E837;padding: 7px 25px 7px 60px;position: relative;border-right: 3px solid transparent;}
+
+    .mini-sidebar .sidebar-nav ul li a{color: #E02D33;padding: 7px 25px 7px 60px;position: relative;border-right: 3px solid transparent;}
 
     .mini-sidebar .sidebar-nav ul li ul li a::after {left: 13px;}
 
@@ -23918,11 +23918,11 @@ table.dataTable > tbody > tr.child span.dtr-title{width: 50%;}
 
     }
 
-.ride-status-info ul li{width: 100%;margin-right: 0;}  
+.ride-status-info ul li{width: 100%;margin-right: 0;}
 
 
 
-.ride-status-info ul{column-count: 1;-moz-column-count: 1;}  
+.ride-status-info ul{column-count: 1;-moz-column-count: 1;}
 
 
 
@@ -24972,7 +24972,7 @@ td.text-red{
 
 @media screen and ( max-width: 650px ) {
 
-.order_edit-genrl .form-group.row.gendetail-col .control-label > strong{width: 100%;margin-bottom: 10px;}    
+.order_edit-genrl .form-group.row.gendetail-col .control-label > strong{width: 100%;margin-bottom: 10px;}
 
 .order_edit-genrl .form-group.row.gendetail-col .control-label > span{margin-left: 0;}
 
@@ -27138,7 +27138,7 @@ sidebar navigation
 
 .mini-sidebar .sidebar-nav #sidebarnav > li:hover a i {
 
-    color: #86E837;
+    color: #E02D33;
 
 }
 
